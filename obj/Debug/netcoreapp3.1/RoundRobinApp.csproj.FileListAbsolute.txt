@@ -1,0 +1,13 @@
+C:\Users\sanch\source\repos\RoundRobinApp\bin\Debug\netcoreapp3.1\RoundRobinApp.exe
+C:\Users\sanch\source\repos\RoundRobinApp\bin\Debug\netcoreapp3.1\RoundRobinApp.deps.json
+C:\Users\sanch\source\repos\RoundRobinApp\bin\Debug\netcoreapp3.1\RoundRobinApp.runtimeconfig.json
+C:\Users\sanch\source\repos\RoundRobinApp\bin\Debug\netcoreapp3.1\RoundRobinApp.runtimeconfig.dev.json
+C:\Users\sanch\source\repos\RoundRobinApp\bin\Debug\netcoreapp3.1\RoundRobinApp.dll
+C:\Users\sanch\source\repos\RoundRobinApp\bin\Debug\netcoreapp3.1\RoundRobinApp.pdb
+C:\Users\sanch\source\repos\RoundRobinApp\obj\Debug\netcoreapp3.1\RoundRobinApp.csprojAssemblyReference.cache
+C:\Users\sanch\source\repos\RoundRobinApp\obj\Debug\netcoreapp3.1\RoundRobinApp.AssemblyInfoInputs.cache
+C:\Users\sanch\source\repos\RoundRobinApp\obj\Debug\netcoreapp3.1\RoundRobinApp.AssemblyInfo.cs
+C:\Users\sanch\source\repos\RoundRobinApp\obj\Debug\netcoreapp3.1\RoundRobinApp.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\RoundRobinApp\obj\Debug\netcoreapp3.1\RoundRobinApp.dll
+C:\Users\sanch\source\repos\RoundRobinApp\obj\Debug\netcoreapp3.1\RoundRobinApp.pdb
+C:\Users\sanch\source\repos\RoundRobinApp\obj\Debug\netcoreapp3.1\RoundRobinApp.genruntimeconfig.cache
